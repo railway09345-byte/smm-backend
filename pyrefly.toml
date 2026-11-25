@@ -1,0 +1,7 @@
+search-path = [".", "app"]
+
+[errors]
+read-only-attribute = "ignore"
+read-only-descriptor = "ignore"
+missing-attribute = "ignore"
+bad-assignment = "ignore"
